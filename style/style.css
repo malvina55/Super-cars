@@ -1,0 +1,124 @@
+* {
+  list-style: none;
+  text-decoration: none;
+  padding: 0;
+}
+
+body {
+  background: rgb(7, 7, 158);
+}
+
+h1 {
+  border: 5px solid red;
+  text-align: center;
+  color: plum;
+  border-radius:15px ;
+  padding: 15px;
+  
+}
+
+h2 {
+  border: 15px solid blue;
+  text-align: center;
+}
+
+.rr1 {
+  background: blue;
+  color: aliceblue;
+  text-align: center;
+  border: 10px plum ridge;
+  padding: 10px 0;
+}
+/* 
+p {
+  border: 6px solid purple;
+  background: purple;
+  color: black;
+} */
+
+.text {
+  margin: 0 auto;
+  width: 800px;
+  height: 500px;
+  text-align: center;
+  background: url(../1364021704_0_4f966_c64b74e_orig.jpg) no-repeat center /cover;
+  color: red;
+  font-size: 19px;
+  padding: 15px;
+  text-shadow: 0 1px black;
+}
+
+.text2 {
+  background: purple;
+  padding: 15px 30px;
+  margin:0 auto;
+  width: 800px;
+  color: whitesmoke;
+  border-radius: 50px;
+}
+
+.text3 {
+  padding: 10px 0;
+  text-align: center;
+  border: 10px purple ridge;
+  background: blue;
+  color: white;
+}
+
+.page {
+  text-align: center;
+}
+
+.title {
+  background: red;
+}
+
+.ll {
+  border-radius: 15px;
+}
+
+.cat {
+  font-size: 25px;
+  border-radius: 20px;
+  padding: 10px;
+  border: 15px blue ridge;
+}
+
+.video {
+  text-align: center;
+}
+
+.kity {
+  border: 5px red ridge;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.dog {
+  text-align: center;
+}
+
+.img {
+  border: 10px purple ridge;
+}
+
+.rr {
+  border: 10px plum ridge;
+}
+
+.menu {
+  text-align: center;
+
+}
+
+.link {
+  color: plum;
+  font-size: 19px;
+  text-transform: capitalize;
+}
+
+.box {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
